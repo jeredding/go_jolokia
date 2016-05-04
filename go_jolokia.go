@@ -7,7 +7,7 @@ package go_jolokia
 import (
 	"bytes"
 	"encoding/json"
-	"errors"
+	_ "errors"
 	"fmt"
 	"io/ioutil"
 	"net/http"
